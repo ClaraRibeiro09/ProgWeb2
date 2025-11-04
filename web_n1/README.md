@@ -1,4 +1,4 @@
-#Projeto N1- Programação Web 2🪻
+# Projeto N1- Programação Web 2🪻
 ### Descrição do projeto proposto: Construir um pequeno blog com autenticação básica, onde os usuários podem criar posts e comentários.
 
 # Tecnologias Utilizadas:
